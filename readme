@@ -1,0 +1,8 @@
+download python and download Flask using package manager of your choice.
+then run python app.py.
+
+Then use the http request below
+
+http://localhost:5000/pyramidWordCheck?word={word}
+
+Application to FetchRewards back end developer role: Kevin You kevin.yuntao.you@gmail.com
